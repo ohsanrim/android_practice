@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/android/ch10_notification/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/android/ch11_jetpack/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/android/ch11_jetpack/src/main/res/layout/fragment_one.xml" value="0.203125" />
+        <entry key="..\:/android/ch11_jetpack/src/main/res/layout/fragment_three.xml" value="0.203125" />
+        <entry key="..\:/android/ch11_jetpack/src/main/res/layout/fragment_two.xml" value="0.203125" />
+        <entry key="..\:/android/ch11_jetpack/src/main/res/layout/item_recyclerview.xml" value="0.203125" />
+        <entry key="..\:/android/ch11_jetpack/src/main/res/menu/menu_main.xml" value="0.203125" />
+        <entry key="..\:/android/ch12_material/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/android/ch12_material/src/main/res/layout/fragment_one.xml" value="0.19947916666666668" />
+        <entry key="..\:/android/ch12_material2/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/android/ch12_meterial/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/android/ch12_meterial/src/main/res/layout/navigation_header.xml" value="0.203125" />
+        <entry key="..\:/android/ch12_meterial/src/main/res/menu/menu_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/android/ch12_meterial/src/main/res/menu/menu_navigation.xml" value="0.203125" />
+        <entry key="..\:/android/ch12_meterial/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21927083333333333" />
+        <entry key="..\:/android/ch12_meterial/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21927083333333333" />
+        <entry key="..\:/android/ch13_activity/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/android/ch13_activity/src/main/res/menu/menu_add.xml" value="0.20052083333333334" />
+        <entry key="..\:/android/ch14_reseiver/src/main/res/layout/activity_main.xml" value="0.196875" />
+        <entry key="..\:/android/ch6_view/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/android/ch7_layout/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/android/ch8_event/src/main/res/drawable/round_button.xml" value="0.37552083333333336" />
+        <entry key="..\:/android/ch8_event/src/main/res/layout/activity_main.xml" value="0.359375" />
+        <entry key="..\:/android/ch9_resource/src/main/res/layout-land/activity_main.xml" value="0.1697530864197531" />
+        <entry key="..\:/android/ch9_resource/src/main/res/layout/activity_main.xml" value="0.359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

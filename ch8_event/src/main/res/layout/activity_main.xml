@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Chronometer
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/chronometer"
+            android:layout_marginTop="100dp"
+            android:gravity="center_horizontal"
+            android:textSize="60dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_marginBottom="70dp">
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/startButton"
+                android:text="Start"
+                android:background="@drawable/round_button"
+                android:textColor="#6f79a8"
+                android:textStyle="bold"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/stopButton"
+                android:text="Stop"
+                android:background="@drawable/round_button"
+                android:textColor="#6f79a8"
+                android:textStyle="bold"
+                android:layout_marginLeft="25dp"
+                android:enabled="false"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/resetButton"
+                android:text="Reset"
+                android:background="@drawable/round_button"
+                android:textColor="#6f79a8"
+                android:textStyle="bold"
+                android:layout_marginLeft="25dp"
+                android:enabled="false"/>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

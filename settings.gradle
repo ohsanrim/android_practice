@@ -1,0 +1,21 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "My Application"
+include ':app'
+include ':ch6_view'
+include ':ch7_layout'
+include ':ch8_event'
+include ':ch9_resource'
+include ':ch10_notification'
+include ':ch11_jetpack'
+include ':ch12_material'
+include ':ch12_meterial'
+include ':ch12_material2'
+include ':ch13_activity'
+include ':ch14_reseiver'
